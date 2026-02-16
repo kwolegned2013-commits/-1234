@@ -1,0 +1,7 @@
+{
+  "name": "StudyLink - Real-time Parent-Child Study Connection",
+  "description": "A collaborative EdTech platform that connects parents and children in real-time, allowing parents to monitor handwriting and problem-solving processes live while providing AI-driven learning analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
